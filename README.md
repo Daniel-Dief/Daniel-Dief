@@ -2,7 +2,7 @@
   Hello there 🖐️
   <img 
     src="https://github.com/Daniel-Dief/Daniel-Dief/blob/main/grievous.gif" 
-    width="80" 
+    width="70" 
     align="right"
   />
 </h1>
